@@ -28,9 +28,26 @@
                                 </ul>
                                 Data science can also be greatly utilized in both marketing as well as development (fundraising).
                                 Too often I think, we in the music world over rely on experience and heuristically make decisions (often based on our own assumptions). 
-                                I think decision-makers could benefit from data-based evidence in conjunction with past experience and instinct.
-                            </p>
-    
-                            <h6>Process</h6>
-       
+                                I think decision-makers could benefit from data-based evidence in conjunction with past experience and instinct. 
+                                <h6>Process</h6>
+                            <ol>
+                                <li>Obtaining the Data - Webscraping using Scrapy</li>
+                                <li>Preprocessing</li>
+                                <li>Analysis - Pandas and Matplotlib</li>
+                                <li>Conclusion</li>
+                            </ol> 
+                             <h6>Challenges</h6>
+                            <p>
+                                This project did not present any serious technical challenges or barriers. 
+                                However, I do think this project tested my citical thinking skills and pushed to think of creative ways value could be extracted from this data. 
+                                More of my time was devoted to asking myself how this data could be useful rather than looking something up on stackoverflow or medium.
+                                Although I did this project more for curiosity than anything else and it was interesting to just discover interesting facts about the history of live orchestral music, 
+                                I ultimately believe that the purpose of this kind of analytics is to provide value to an organization.
+                                Building on the kind of thinking I used in this project and expanding my perpsective to ask myself even more pertinent questions will, I think, make me a much better and more valuable data scientist.
+                            </p>  
+                            <br>
+                   
+                                
+                          
+              
  

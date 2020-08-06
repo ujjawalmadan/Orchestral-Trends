@@ -32,31 +32,5 @@
                             </p>
     
                             <h6>Process</h6>
-                            <ol>
-                                <li>Obtaining the Data - Webscraping using Scrapy</li>
-                                <li>Preprocessing</li>
-                                <li>Analysis - Pandas and Matplotlib</li>
-                                <li>Conclusion</li>
-                            </ol> 
-    
-                            <h6>Challenges</h6>
-                            <p>
-                                This project did not present any serious technical challenges or barriers. 
-                                However, I do think this project tested my citical thinking skills and pushed to think of creative ways value could be extracted from this data. 
-                                More of my time was devoted to asking myself how this data could be useful rather than looking something up on stackoverflow or medium.
-                                Although I did this project more for curiosity than anything else and it was interesting to just discover interesting facts about the history of live orchestral music, 
-                                I ultimately believe that the purpose of this kind of analytics is to provide value to an organization.
-                                Building on the kind of thinking I used in this project and expanding my perpsective to ask myself even more pertinent questions will, I think, make me a much better and more valuable data scientist.
-                            </p>  
-                            <br>
-    
-                            <div class="mh-about-tag">
-                                <ul>
-                                    <li><span>Scrapy</span></li>
-                                    <li><span>Splash</span></li>
-                                    <li><span>Python</span></li>
-                                    <li><span>Pandas</span></li>
-                                    <li><span>Matplotlib</span></li>
-                                </ul>
-                            </div>
-    
+       
+ 

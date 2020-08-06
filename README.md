@@ -46,6 +46,15 @@
                                 Building on the kind of thinking I used in this project and expanding my perpsective to ask myself even more pertinent questions will, I think, make me a much better and more valuable data scientist.
                             </p>  
                             <br>
+                                <div class="mh-about-tag">
+                                <ul>
+                                    <li><span>Scrapy</span></li>
+                                    <li><span>Splash</span></li>
+                                    <li><span>Python</span></li>
+                                    <li><span>Pandas</span></li>
+                                    <li><span>Matplotlib</span></li>
+                                </ul>
+                            </div>
                    
                                 
                           

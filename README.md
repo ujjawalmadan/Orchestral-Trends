@@ -21,11 +21,11 @@
                                 I can't tell you how many times I have gotten into discussions with peers, professors and classmates over how arts organizations should be appropriately reacting to declining audiences
                                 , where even basic facts of the business are in debate.
                                 Data-based decision making building on this analysis (along with some predictive modelling) can help answer questions such as:
-                                <ol>
+                                <ul>
                                     <li>Artistic Programming - What repertoire should we perform and when?</li>
                                     <li>Determining demand for Conductors and Soloists - What price are we willing to pay for conductors and soloist?</li>
                                     <li>Scheduling of Performances - What day and what time is optimal controlled for audience type and repertoire</li>
-                                </ol>
+                                </ul>
                                 Data science can also be greatly utilized in both marketing as well as development (fundraising).
                                 Too often I think, we in the music world over rely on experience and heuristically make decisions (often based on our own assumptions). 
                                 I think decision-makers could benefit from data-based evidence in conjunction with past experience and instinct.
